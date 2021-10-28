@@ -14,5 +14,7 @@ Espero que les guste mi programa, si tienes sugerencias o dudas no dudes
 ----
 en contactarme :D, bye y disfruta
 ----
-
+# CALCULADORA EN EJECUCION
+![Image text](https://github.com/UserM01000/Basic-calculator/blob/main/calcu1.jfif)
+<!--->
 [tested]:https://img.shields.io/badge/Tested%3A-%20Windows-blue
